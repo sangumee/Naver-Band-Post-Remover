@@ -1,5 +1,6 @@
 # Naver-Band-Post-Remover
-![](https://img.shields.io/badge/Code%20Statue-Close-red.svg) ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/imkeopbmlpnjdgniafkbkpdhbdigmdbk?label=Current%20User&style=for-the-badge)
+![](https://img.shields.io/badge/Code%20Statue-Close-red.svg)  
+![Chrome Web Store](https://img.shields.io/chrome-web-store/users/imkeopbmlpnjdgniafkbkpdhbdigmdbk?label=Current%20User&style=for-the-badge)  
 Naver Band Post &amp; Comment Remover
 
 이 크롬 확장 프로그램은 네이버 밴드의 게시글 및 댓글 그리고 사진을 지우는데 도움을 주는 확장 프로그램입니다.
